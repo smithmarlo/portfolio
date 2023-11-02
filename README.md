@@ -12,10 +12,10 @@ Highly motivated and enthusiastic individual seeking an Email Developer position
 -	Collaborative team player with excellent communication skills and an eye for detail.
 
 ### Education
--	Relevant coursework in "The Complete 2023 Web Development Bootcamp" Udemy Course| by Dr. Angela Yu | Developer and Lead Instructor
--	Relevant coursework in “HTML Email Mastery - Build Responsive HTML Email Templates” Udemy Course | by Drew Ryan | Website Development and Design Online Instructor
+Relevant coursework in "The Complete 2023 Web Development Bootcamp" Udemy Course| by Dr. Angela Yu | Developer and Lead Instructor
+Relevant coursework in “HTML Email Mastery - Build Responsive HTML Email Templates” Udemy Course | by Drew Ryan | Website Development and Design Online Instructor
 
-  HTML and CSS Fundamentals | Web Development Principles | Email Marketing Basics
+HTML and CSS Fundamentals | Web Development Principles | Email Marketing Basics
 
 ### Projects
 Email Template Creation| 2023
