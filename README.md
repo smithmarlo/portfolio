@@ -12,25 +12,40 @@ Highly motivated and enthusiastic individual seeking an Email Developer position
 -	Collaborative team player with excellent communication skills and an eye for detail.
 
 ### Education
-Relevant coursework in "The Complete 2023 Web Development Bootcamp" Udemy Course| by Dr. Angela Yu | Developer and Lead Instructor
-Relevant coursework in “HTML Email Mastery - Build Responsive HTML Email Templates” Udemy Course | by Drew Ryan | Website Development and Design Online Instructor
+University of the West indies | Jamaica, 2018
 
-HTML and CSS Fundamentals | Web Development Principles | Email Marketing Basics
+Relevant coursework in "The Complete 2023 Web Development Bootcamp" Udemy Course| by Dr. Angela Yu | Developer and Lead Instructor  - Ongoing
+
+Relevant coursework in “HTML Email Mastery - Build Responsive HTML Email Templates” Udemy Course | by Drew Ryan | Website Development and Design Online Instructor - Completed
+
 
 ### Projects
-Email Template Creation| 2023
--	Developed responsive promotional, transactional and newsletter HTML email template which resulted in tests rendering optimally in popular email clients.
+Template Creation| 2023
+- Developed email templates including promotional emails, newsletters, and transsactional emails. 
+-	Developed effective email layouts using HTML and CSS ensuring emails are optimized for both desktop and mobile devices.
+-	Tested emails across multiple platforms and browsers to ensure they render properly.
 -	Applied best practices for email design, including mobile optimization.
 
 ### Skills
+- Critical eye for detail with the ability to quickly troubleshoot and analyze work.
+- Strong working knowledge of Adobe Photoshop.
+- Ability to work in a fast-paced environment and have a keen eye for detail.
+- Strong interpersonal communication skills; ability to collaborate with cross functional teams in a fast pace agency style environment.
+- Excellent project management skills, organizational skills and the ability to effectively manage multiple projects at once.
+- Strong knowledge of email marketing design best practices, including layouts, typography, and composition.
+- Strong attention to detail.
+- Strong working knowledge of Adobe Photoshop or Illustrator.
+- Intermediate to Expert level HTML and CSS programming skills with a strong proficiency in the Adobe Creative Suite
+
+
+### Additional Competencies
 -	Problem - Solving
 -	Adaptability/Flexibility
--	Time Management/Organization
--	Critical Thinking	
+-	Microsoft Office
 
--	HTML & CSS
--	Adobe Photoshop/Illustrator
--	ESP (MailChimp, GetResponse)
+
+-	Virtual Studio (VS) Code
+-	MailChimp
 -	Litmus
 
 
