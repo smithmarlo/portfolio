@@ -1,5 +1,5 @@
 # HTML Email Developer
-[View Website](https://smithmarlo.github.io/personal-website/)
+[View Website](https://www.marlonsmithdev.com/)
 
 ### Objective
 Highly motivated and enthusiastic individual seeking an Email Developer position to kickstart a career in email marketing. Eager to apply my knowledge of HTML, CSS, and email best practices to collaboratively create engaging and responsive email campaigns.
