@@ -25,10 +25,10 @@ Project Two | Transactional Email
 
 Project Three | Newsletter
 - Tested emails across multiple platforms and browsers to ensure they render properly.
-- Applied best practices for email design, including mobile optimization.
 
 ### Certification 
-Use MailChimp to Build an Email Marketing Campaign | Issuing Body, Coursera | November, 2023
+Use MailChimp to Build an Email Marketing Campaign Issuing Body, Coursera
+November, 2023
 
 [View Certificate](https://bit.ly/CourseraCredential)
 
