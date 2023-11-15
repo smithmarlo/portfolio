@@ -2,41 +2,45 @@
 [View Website](https://www.marlonsmithdev.com/)
 
 ### Objective
-Highly motivated and enthusiastic individual seeking an Email Developer position to kickstart a career in email marketing. Eager to apply my knowledge of HTML, CSS, and email best practices to collaboratively create engaging and responsive email campaigns.
+Results-driven HTML email developer with intermediate-level proficiency in front-end technologies and responsive design. Passionate about creating visually compelling email campaigns. Looking for a position to apply and enhance skills, contributing to impactful communication strategies while keeping up with industry developments.
 
 ### Professional Summary
--	Proficient in HTML and CSS for email development, ensuring compatibility across various email clients.
--	Experienced in responsive email design and optimization for mobile devices.
--	Quick learner with a passion for staying up-to-date with industry trends.
--	Familiar with email marketing platforms such as MailChimp.
--	Clear understanding of email marketing best practices such as segmentation and A/B Testing.
--	Collaborative team player with excellent communication skills and an eye for detail.
+- Proficient in HTML and CSS for email development, ensuring compatibility across various email clients.
+- Experienced in responsive email design and optimization for mobile devices.
+- Strong willingness to learn new platforms.
+- Quick learner with a passion for staying up-to-date with industry trends.
+- Familiar with email marketing platforms such as MailChimp.
+- Collaborative team player with excellent communication skills and an eye for detail.
+- Basic understanding of email marketing and best practices
 
 ### Education
 University of the West indies | Jamaica, 2018
 
-Relevant coursework in "The Complete 2023 Web Development Bootcamp" Udemy Course| by Dr. Angela Yu | Developer and Lead Instructor  - Ongoing
-
-Relevant coursework in “HTML Email Mastery - Build Responsive HTML Email Templates” Udemy Course | by Drew Ryan | Website Development and Design Online Instructor - Completed
-
-
 ### Projects
-Template Creation| 2023
-- Developed email templates including promotional emails, newsletters, and transsactional emails. 
--	Developed effective email layouts using HTML and CSS ensuring emails are optimized for both desktop and mobile devices.
--	Tested emails across multiple platforms and browsers to ensure they render properly.
--	Applied best practices for email design, including mobile optimization.
+Project One | Promotional Email
+- Developed responsive HTML email for a fictional client, ensuring compatibility across various email clients.
+
+Project Two | Transactional Email
+- Developed effective email layout using HTML and CSS ensuring emails are optimized for both desktop and mobile devices.
+
+Project Three | Newsletter Email
+     
+- Tested emails across multiple platforms and browsers to ensure they render properly.
+- Applied best practices for email design, including mobile optimization.
+
+###Certification 
+Use MailChimp to Build an Email Marketing Campaign | Issuing Body, Coursera | November, 2023
+
+[View Certificate](https://bit.ly/CourseraCredential)
 
 ### Skills
-- Critical eye for detail with the ability to quickly troubleshoot and analyze work.
-- Strong working knowledge of Adobe Photoshop.
-- Ability to work in a fast-paced environment and have a keen eye for detail.
-- Strong interpersonal communication skills; ability to collaborate with cross functional teams in a fast pace agency style environment.
-- Excellent project management skills, organizational skills and the ability to effectively manage multiple projects at once.
-- Strong knowledge of email marketing design best practices, including layouts, typography, and composition.
-- Strong attention to detail.
-- Strong working knowledge of Adobe Photoshop or Illustrator.
-- Intermediate to Expert level HTML and CSS programming skills with a strong proficiency in the Adobe Creative Suite
+- HTML/CSS: Proficient in hand-coding HTML and CSS for creating responsive and dynamic email templates.
+- Email Marketing Platforms: Experienced in utilizing platforms like Mailchimp, Constant Contact, and others for campaign management.
+- Cross-Browser Compatibility: Ensuring consistent rendering across various email clients and browsers.
+- Responsive Design: Developing mobile-friendly email templates for optimal user experience on different devices.
+- A/B Testing: Implementing and analyzing A/B tests to optimize email campaign performance.
+- Photoshop: Basic image editing skills for optimizing graphics and visuals in email content.
+- Collaboration: Effective communication and collaboration with design and marketing teams.
 
 
 ### Additional Competencies
@@ -48,6 +52,7 @@ Template Creation| 2023
 -	Virtual Studio (VS) Code
 -	MailChimp
 -	Litmus
+-   Salesforce: Beginner 
 
 
 
