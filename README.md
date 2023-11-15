@@ -23,12 +23,11 @@ Project One | Promotional Email
 Project Two | Transactional Email
 - Developed effective email layout using HTML and CSS ensuring emails are optimized for both desktop and mobile devices.
 
-Project Three | Newsletter Email
-     
+Project Three | Newsletter
 - Tested emails across multiple platforms and browsers to ensure they render properly.
 - Applied best practices for email design, including mobile optimization.
 
-###Certification 
+### Certification 
 Use MailChimp to Build an Email Marketing Campaign | Issuing Body, Coursera | November, 2023
 
 [View Certificate](https://bit.ly/CourseraCredential)
